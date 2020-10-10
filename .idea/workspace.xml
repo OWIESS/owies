@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a5bfea0-7a57-4a22-b2ac-bf6528fb1c24" name="Default Changelist" comment="" />
+    <list default="true" id="9a5bfea0-7a57-4a22-b2ac-bf6528fb1c24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,12 +70,24 @@
       <updated>1601884192686</updated>
       <workItem from="1601884194205" duration="17877000" />
       <workItem from="1602181631787" duration="2534000" />
-      <workItem from="1602333619588" duration="32000" />
+      <workItem from="1602333619588" duration="221000" />
+      <workItem from="1602333852560" duration="2231000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601884973389">
